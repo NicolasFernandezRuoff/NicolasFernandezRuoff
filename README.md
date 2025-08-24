@@ -1,18 +1,22 @@
 <h1>    Hi
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />! 
         My name is Nicolas</h1> 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" />
-  <div>
-    I’m a 3rd year student of Information Systems Engineering at the National Technological University (UTN).  
-    <br><br>
-    💻 I’m passionate about technology, software development, and problem solving.  
-    <br>
-    🚀 I enjoy learning new tools and languages, and I’m constantly looking to improve my skills through projects and challenges.  
-    <br>
-    📚 Currently focused on expanding my knowledge in backend development, databases, and programming paradigms.  
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" />
+    </td>
+    <td>
+      I’m a 3rd year student of Information Systems Engineering at the National Technological University (UTN).  
+      <br><br>
+      💻 I’m passionate about technology, software development, and problem solving.  
+      <br>
+      🚀 I enjoy learning new tools and languages, and I’m constantly looking to improve my skills through projects and challenges.  
+      <br>
+      📚 Currently focused on expanding my knowledge in backend development, databases, and programming paradigms.  
+    </td>
+  </tr>
+</table>
 
 ---
 
