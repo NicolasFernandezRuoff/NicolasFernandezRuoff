@@ -1,7 +1,7 @@
 <h1>    Hi
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />! 
         My name is Nicolas</h1> 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" />
