@@ -7,7 +7,7 @@
       <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" />
     </td>
     <td>
-      I’m a 3rd year student of Information Systems Engineering at the National Technological University (UTN).  
+      I’m a 4rd year student of Information Systems Engineering at the National Technological University (UTN).  
       <br><br>
       💻 I’m passionate about technology, software development, and problem solving.  
       <br>
