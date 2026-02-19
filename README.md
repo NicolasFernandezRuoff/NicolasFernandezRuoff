@@ -74,19 +74,7 @@
 
 ---
 
-## GitHub Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=NicolasFernandezRuoff&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFernandezRuoff&theme=radical&hide_border=true&layout=compact" height="170" alt="Top Languages" />
-
 <br><br>
-
---- 
 
 <!-- Visit Counter -->
 <p align="left"> 
