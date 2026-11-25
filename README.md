@@ -62,7 +62,7 @@
     <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio" /></td>
   </tr>
   <tr>
-    <td><b>De la facu</b> <sub>/sub></td>
+    <td><b>De la facu</b> </td>
     <td><img height="40" src="https://skillicons.dev/icons?i=haskell,ruby,cpp" /></td>
   </tr>
 </table>
