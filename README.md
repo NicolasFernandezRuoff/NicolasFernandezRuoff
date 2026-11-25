@@ -1,86 +1,60 @@
-<h1>    Hi
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />! 
-        My name is Nicolas</h1> 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" />
-    </td>
-    <td>
-      I’m a 4rd year student of Information Systems Engineering at the National Technological University (UTN).  
-      <br><br>
-      💻 I’m passionate about technology, software development, and problem solving.  
-      <br>
-      🚀 I enjoy learning new tools and languages, and I’m constantly looking to improve my skills through projects and challenges.  
-      <br>
-      📚 Currently focused on expanding my knowledge in backend development, databases, and programming paradigms.  
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nico_f.r/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-fernandez-ruoff-134629334/)
-
----
-
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,nodejs,express,haskell,ruby,c,cpp"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-            <img height="40" src="https://upload.wikimedia.org/wikipedia/en/b/bc/MSSQL_SSMS_21_icon.png"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=postman,firebase"/>
-            <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
-    </tr>
-</table>
-
----
-
-<br><br>
-
-<!-- Visit Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=NicolasFernandezRuoff&label=Profile%20views&color=0e75b6&style=flat" alt="NicolasFernandezRuoff" /> 
+<h1 align="center">Nicolás Fernández Ruoff</h1>
+<p align="center">
+  <b>Desarrollo de Software · Automatización · IA aplicada</b><br>
+  Estudiante de Ingeniería en Sistemas de Información (UTN) · Buenos Aires, Argentina
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-fernandez-ruoff-134629334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fernandezruoffnicolas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+---
 
+## 👋 Sobre mí
+
+Estudiante de 5.° año de Ingeniería en Sistemas de Información en la **UTN**, con más del 80% de la carrera aprobada. Trabajo en **BPD Solutions**, donde desarrollo herramientas de automatización en Python y un agente de IA que asiste procesos de auditoría.
+
+Vengo de un perfil de desarrollo (Java/Spring Boot, Node.js, React) y me interesa profundizar en **backend, bases de datos, automatización y diseño de agentes de IA**.
+
+## 💼 Lo que hago hoy
+
+- Automaticé con **Python** la migración de más del 90% de los objetos de una plataforma on-premise a la nube.
+- Construí un sistema de relevamiento que integra bases de datos **relacionales y de grafos (Neo4j)** para mapear relaciones entre artefactos.
+- Diseñé e integré un **agente de IA basado en la API de Claude** que consume ese contexto para asistir en auditorías y generar artefactos.
+
+## 🛠️ Tecnologías
+
+**Backend**<br>
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,c" />
+
+**Frontend**<br>
+<img height="40" src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
+
+**Bases de datos**<br>
+<img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j" />
+
+**DevOps y herramientas**<br>
+<img height="40" src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+
+**Automatización e IA:** API de Claude · agentes de IA y system prompts · n8n
+
+<sub>También usé Haskell, Ruby y C++ en materias de la facultad.</sub>
+
+## 📂 Proyectos
+
+**MetaMapa** — Sistema de mapeo con arquitectura de microservicios. `Spring Boot` `MySQL` `JavaScript`
+<!-- agregar link al repo de MetaMapa -->
+
+**BirBnb** — Plataforma colaborativa de gestión de reservas con autenticación mediante Keycloak. `React` `Express.js` `Keycloak`
+<!-- agregar link al repo de BirBnb -->
+
+## 🌱 Estudiando
+
+Inglés y portugués, y profundizando en el diseño y evaluación de agentes de IA.
+
+---
+
+<p align="center">
+  <i>¿Hablamos? Escribime por LinkedIn o por mail.</i>
+</p>
