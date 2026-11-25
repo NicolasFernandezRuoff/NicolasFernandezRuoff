@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicol%C3%A1s%20Fern%C3%A1ndez%20Ruoff&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nico%C3%A1s%20Fern%C3%A1ndez%20Ruoff&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=Hola%2C%20soy%20Nicol%20%F0%9F%91%8B;Estudiante%20de%20Ing.%20en%20Sistemas%20%40%20UTN;Automatizo%20cosas%20para%20no%20hacerlas%20a%20mano;Funciona%20en%20mi%20m%C3%A1quina%20%F0%9F%A7%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=Hola%2C%20soy%20Nico%20%F0%9F%91%8B;Estudiante%20de%20Ing.%20en%20Sistemas%20%40%20UTN;Automatizo%20cosas%20para%20no%20hacerlas%20a%20mano;Funciona%20en%20mi%20m%C3%A1quina%20%F0%9F%A7%89" alt="Typing SVG" />
 </p>
 
 
