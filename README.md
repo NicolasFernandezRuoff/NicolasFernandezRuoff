@@ -17,7 +17,7 @@
       <br><br>
       🧠 Me gusta el backend, las bases de datos (hasta las de grafos) y meterle agentes de IA a todo lo que se deje.
       <br><br>
-      🔭 Ahora mismo: armando <b>Recuerdos</b> y <b>Clipping</b> (spoiler: están privados 🤫).
+      🔭 Ahora mismo: armando <b>Recuerdos</b> y <b>Clipping</b> (Estan privados).
       <br><br>
       🌱 Estudiando inglés y portugués.
       <br><br>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Mi stack <sub>(lo que uso sin entrar en pánico)</sub>
+## 🛠️ Mi stack <sub></sub>
 
 <table>
   <tr>
