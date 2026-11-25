@@ -67,8 +67,6 @@
   </tr>
 </table>
 
-🤖 **IA y automatización:** API de Claude · agentes de IA y system prompts · n8n
-
 ---
 
 ## 🎓 Proyectos de la facu
