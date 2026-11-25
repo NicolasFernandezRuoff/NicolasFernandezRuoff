@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=Hola%2C%20soy%20Nicol%C3%A1s%20%F0%9F%91%8B;Estudiante%20de%20Ing.%20en%20Sistemas%20%40%20UTN;Automatizo%20cosas%20para%20no%20hacerlas%20a%20mano;Funciona%20en%20mi%20m%C3%A1quina%20%F0%9F%A7%89" alt="Typing SVG" />
 </p>
 
-<h1 align="center">
-  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />, soy Nico
-</h1>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
